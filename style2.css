@@ -1,0 +1,57 @@
+ }
+	  body {
+		background-color: #ffffff;
+		font-family: Baskerville, Times New Roman;
+
+}
+
+.card {
+  background: #f2f2f2;
+  border-style: solid;
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: #cccccc;
+  font-size: 18px;
+}
+
+button {
+  border: dotted;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: silver;
+  background-color: black;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 22px;
+  font-family: Baskerville, Times New Roman;
+}
+
+p {
+color: #666666;
+  text-decoration: none;
+  font-size: 16px;
+  font-family: American Typewriter;
+}
+
+a {
+  text-decoration: bold;
+  font-size: 22px;
+  color: silver;
+font-family: Baskerville, Times New Roman;
+}
+
+p {
+  text-decoration: none;
+  font-size: 16px;
+  color: #000000;
+} 
+
+button:hover, a:hover {
+  opacity: 0.5;
+}
